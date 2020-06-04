@@ -3,12 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@daostack/arc.js": "^2.0.0-experimental.5",
+    "@daostack/client": "^2.0.0-experimental.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "ethers": "^4.0.47",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-syntax-highlighter": "^12.2.1"
   },
   "scripts": {
     "start": "react-scripts start",

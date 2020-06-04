@@ -21,8 +21,9 @@ const App = () => {
         <div>
           <SyntaxHighlighter language="javascript" style={{...docco, width:  '80%'}}>
             {JSON.stringify(daos)}
-          </SyntaxHighlighter>Z
+          </SyntaxHighlighter>
         </div>
+        <a href="https://lucid-elion-eb9949.netlify.app">Go To Common</a>
       </header>
     </div>
   );
